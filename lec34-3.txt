@@ -1,0 +1,15 @@
+The trees are designed in a way that they self-balance once the height difference exceeds 1. Binary Search Trees use rotations as self-balancing algorithms. There are four different types of rotations: Left Left, Right Right, Left Right, Right Left.
+
+There are various types of self-balancing binary search trees −
+
+AVL Trees
+
+Red Black Trees
+
+B Trees
+
+B+ Trees
+
+Splay Trees
+
+Priority Search Trees
